@@ -1,6 +1,6 @@
 aiocontextvars==0.2.2
 astroid==2.4.2
-asyncpg==0.20.1
+asyncpg==0.21.0
 click==7.1.2
 contextvars==2.4
 databases==0.3.2
